@@ -7,7 +7,7 @@
 <html>
 
 <img src=img/preview-front.png width=50% align="left">
-<img src=img/preview-back.png width=50% align="right">
+<img src=img/preview-back.png width=50% align="left">
 
 </html>
 
