@@ -1,1 +1,2 @@
-!*.blend
+*.blend*
+!Prototyping_Assets.blend
